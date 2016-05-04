@@ -1,6 +1,7 @@
 Split PDF file to multiple groups
 -----------------
 Requires PyPDF2
+
 This python script can be used to collate a single pdf file to multiple pdf files. One usage situation is to use it as the "anti-collate" for your scanned file. It can also be used to split a file to even-odd pages.
 
 For example, if you would like to split a file named "all.pdf" to 3 files, each containing pages: 
